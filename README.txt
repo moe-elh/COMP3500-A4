@@ -15,4 +15,4 @@ To run:
     go into folder directory
     run command: java -cp postgresql-42.7.0.jar app.java
 
-Video link showing walkthrough of application: 
+Video link showing walkthrough of application: https://youtu.be/DxCPWfcmjaA
