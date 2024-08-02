@@ -8,11 +8,11 @@ Practise using SQL and Pgadmin to simulate a university database of students whe
     -make new database
     - press query tool and open table.sql and run it
     - press query tool and open initialize.sql and run it, this will get the database going
-    in app.java file change lines 18-20 to resemble your database details:
-    private static final String url = "jdbc:postgresql://<your localhost name>:<your port>/<your database name>";
-    private static final String user = "your username here";
-    private static final String password = "your password here";
-    (these can be retrieved in pgadmin by left clicking on PostgresSQL 16 -Properties -Connection)
+    - in app.java file change lines 18-20 to resemble your database details:
+      private static final String url = "jdbc:postgresql://<your localhost name>:<your port>/<your database name>";
+      private static final String user = "your username here";
+      private static final String password = "your password here";
+      (these can be retrieved in pgadmin by left clicking on PostgresSQL 16 -Properties -Connection)
 
 **How to run:**
 
